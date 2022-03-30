@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ammar-Asim-23
-- 👀 I’m interested in learning Python relatrd skills
+- 👀 I’m interested in learning Python related skills
 - 🌱 I’m currently learning Computer Systems Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me syedammarasim1045@gmail.com
