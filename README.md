@@ -13,15 +13,6 @@ Contact me at ammarasim065@gmail.com.
 
 
 
-**My Stats**
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ammar-Asim-23)](https://git.io/streak-stats)
-
-
-
-
-
-
 
 
 **My Languages**
